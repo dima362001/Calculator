@@ -15,7 +15,7 @@ public class Calculator {
         return c;
     }
 //dev3 feature 
-    public static double div (int a, int b){
+    public static double div (double a, double b){
         double c = a/b;
         return c;
     }
